@@ -53,26 +53,26 @@ section[container] {
 #container {
   text-align: center;
   display: flex;
-  justify-content: center; /* Align items horizontally centered */
-  align-items: center; /* Align items vertically centered */
+  justify-content: center; 
+  align-items: center; 
 }
 
 #button-container {
   max-width: 38em;
   margin: auto;
   display: flex;
-  justify-content: flex-start; /* Align items horizontally centered */
-  align-items: left; /* Align items vertically centered */
+  justify-content: flex-start;
+  align-items: left; 
 }
 
 #button-container p {
   max-width: 18em;
-  margin-right: 1em; /* Add space between paragraph and button */
+  margin-right: 1em;
 }
 
 #button-container button {
   margin-top: 1.05em;
-  margin-left: 1em; /* Add space between paragraph and button */
+  margin-left: 1em;
 }
 
 .result {
